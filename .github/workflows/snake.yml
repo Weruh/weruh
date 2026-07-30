@@ -16,8 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: weruh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
