@@ -38,7 +38,7 @@ Currently I'm building scalable SaaS applications focused on helping African bus
 
 ## 🎯 Current Focus
 
-- 🏪 MyBiashara.shop
+- 🏪 Niwangu.com
 - 🤖 AI Business Automation
 - 📲 SMS Automation
 - 💳 Payment Integrations
@@ -51,7 +51,7 @@ Currently I'm building scalable SaaS applications focused on helping African bus
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,firebase,docker,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,tailwind,docker,git,github,vscode,linux"/>
 
 </p>
 
