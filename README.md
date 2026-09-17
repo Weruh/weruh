@@ -26,11 +26,11 @@ Junior Backend Developer • Full-Stack Developer • Software Developer
 
 I'm a **Junior Backend Developer and Full-Stack Developer from Kenya 🇰🇪**, passionate about building practical software solutions that solve real-world problems.
 
-I have hands-on experience developing web applications, building backend services, working with databases, integrating payment systems, and connecting frontend applications to backend APIs.
+I have hands-on experience developing web applications, building backend services, working with databases, integrating payment systems, developing APIs, debugging applications, and connecting frontend applications to backend services.
 
-My professional experience includes contributing to the development and launch of **Kujuana.com**, while my personal and collaborative work includes platforms such as **MyBiashara.shop** and **Niwangu.com**.
+I contributed to the development and launch of **Kujuana.com** at Kujuapoint LLC and have also worked on platforms such as **MyBiashara.shop** and **Niwangu.com**.
 
-I'm currently expanding my backend development skills with **Python and Flask**, while continuing to strengthen my knowledge of APIs, databases, testing, Docker, and backend system design.
+I'm currently expanding my backend engineering skills with **Python and Flask**, while strengthening my knowledge of REST APIs, PostgreSQL, testing, Docker, and backend system design.
 
 ---
 
@@ -44,6 +44,7 @@ I'm currently expanding my backend development skills with **Python and Flask**,
 * ⚛️ React Frontend Development
 * ☁️ Supabase Backend Services
 * 🐛 Debugging & Troubleshooting
+* 🧪 Testing & Application Reliability
 * 🐳 Docker & Development Environments
 * 🔀 Git & GitHub Collaboration
 
@@ -54,25 +55,25 @@ I'm currently expanding my backend development skills with **Python and Flask**,
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,python,flask,express" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,flask,express" alt="Node.js JavaScript Python Flask Express">
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React HTML CSS Tailwind">
 </p>
 
 ### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" alt="Database Technologies">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" alt="MongoDB PostgreSQL Supabase">
 </p>
 
 ### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git GitHub Docker Linux VS Code">
 </p>
 
 ---
@@ -87,7 +88,14 @@ Contributed to the development and launch of **Kujuana.com**, working with:
 
 **Node.js • JavaScript • MongoDB • Paystack • Supabase • Git/GitHub**
 
-Key responsibilities included backend development, database management, payment integration, debugging, testing, and contributing to the transition from the initial Node.js/MongoDB backend to Supabase.
+Key contributions included:
+
+* Developing backend functionality for core application features.
+* Working with MongoDB for application data management.
+* Integrating Paystack payment services.
+* Debugging and resolving backend issues during the platform launch.
+* Testing and maintaining backend functionality.
+* Contributing to the transition from the initial Node.js/MongoDB backend to Supabase.
 
 ---
 
@@ -167,39 +175,26 @@ Docker
 Backend System Design
 ```
 
-My goal is to become a stronger backend engineer while continuing to develop full-stack applications.
+I'm particularly interested in becoming stronger in **backend architecture, API development, databases, testing, system design, and cloud-based applications**.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=weruh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=weruh&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=weruh&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Weru Dennis GitHub Statistics"
+  />
 </p>
 
----
-
-## 💻 Most Used Languages
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weruh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weruh&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/weruh/weruh/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=weruh&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Weru Dennis Most Used Languages"
+  />
 </p>
 
 ---
@@ -207,16 +202,19 @@ My goal is to become a stronger backend engineer while continuing to develop ful
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=weruh&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=weruh&theme=algolia&column=4&margin-w=15&margin-h=15"
+    alt="Weru Dennis GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🎯 Career Focus
 
-I'm looking for opportunities as a **Junior Backend Developer or Full-Stack Developer**, where I can contribute to real-world software products and continue growing as a backend engineer.
+I'm looking for opportunities as a **Junior Backend Developer or Full-Stack Developer**, where I can contribute to real-world software products while continuing to grow as a backend engineer.
 
-I'm particularly interested in working with:
+### Areas I'm focused on:
 
 **Python • Flask • Node.js • REST APIs • PostgreSQL • Supabase • Docker**
 
@@ -243,7 +241,10 @@ while (alive) {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=weruh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img
+    src="https://komarev.com/ghpvc/?username=weruh&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
